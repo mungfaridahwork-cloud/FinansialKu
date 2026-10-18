@@ -1,0 +1,6 @@
+{
+  "name": "FinansialKu.com - Melek Finansial Sambil Rebahan",
+  "description": "Platform edukasi literasi keuangan Indonesia: belajar uang, perbankan, BI, OJK, LPS, investasi, dan simulasi anggaran secara santai dan tanpa pusing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
